@@ -17,7 +17,8 @@ angular
     'ngResource',
     'ngSanitize',
     'ngTouch',
-    'ui.router'
+    'ui.router',
+    //'loginService'
   ])
   /*
   .config(function ($routeProvider) {
